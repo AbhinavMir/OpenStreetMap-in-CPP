@@ -60,3 +60,14 @@ The testing executable is also placed in the `build` directory. From within `bui
 ./test
 ```
 
+
+<br>
+<hr>
+## Rubrics
+
+1. The submission must compile. ✔️
+2. The submission must pass the final set of unit tests. ❌ [2 failed]
+3. The user should be able to provide inputs to the search. ✔️
+4. The user inputs should correspond with areas on the map. ✔️
+5. The methods in the code should avoid unnecessary calculations. ✔️
+
