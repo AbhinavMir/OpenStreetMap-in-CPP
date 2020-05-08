@@ -8,11 +8,11 @@ This repo contains the starter code for the Route Planning project.
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/udacity/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
 ```
 or with SSH:
 ```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone git@github.com:udacity/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
@@ -29,6 +29,7 @@ git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-subm
 * IO2D
   * Installation instructions for all operating systems can be found [here](https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md)
   * This library must be built in a place where CMake `find_package` will be able to find it
+  * You can clone and install this _anywhere_ as long as you install it (last step from instruction) (At least with Ubuntu)
 
 ## Compiling and Running
 
