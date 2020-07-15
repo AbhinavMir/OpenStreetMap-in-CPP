@@ -1,17 +1,6 @@
 # Route Planning Project
 <img src="map.png" width="600" height="450" />
 
-## Cloning
-
-When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
-```
-git clone https://github.com/udacity/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
-```
-or with SSH:
-```
-git clone git@github.com:udacity/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
-```
-
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
@@ -21,9 +10,16 @@ git clone git@github.com:udacity/https://github.com/AbhinavMir/OpenStreetMap-in-
   * This library must be built in a place where CMake `find_package` will be able to find it
   * You can clone and install this _anywhere_ as long as you install it (last step from instruction) (At least with Ubuntu)
 
-## Compiling and Running
 
-### Compiling
+## Building
+When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
+```
+git clone https://github.com/udacity/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
+```
+or with SSH:
+```
+git clone git@github.com:udacity/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
+```
 To compile the project, first, create a `build` directory and change to that directory:
 ```
 mkdir build && cd build
