@@ -38,3 +38,7 @@ Or to specify a map file:
 ```
 ./OSM_A_star_search -f ../<your_osm_file.osm>
 ```
+
+_____
+
+Done as practice for Udacity Course
