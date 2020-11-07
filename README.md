@@ -14,11 +14,11 @@
 ## Building
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/udacity/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
+git clone https://github.com/abhinavmir/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
 ```
 or with SSH:
 ```
-git clone git@github.com:udacity/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
+git clone git@github.com:abhinavmir/https://github.com/AbhinavMir/OpenStreetMap-in-CPP.git --recurse-submodules
 ```
 To compile the project, first, create a `build` directory and change to that directory:
 ```
